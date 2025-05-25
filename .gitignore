@@ -1,0 +1,12 @@
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.ip_user_files/
+*.hw/
+*.sim/
+webtalk_*
+xsim.dir/
+vivado*backup*
+*.xpr.cache/
